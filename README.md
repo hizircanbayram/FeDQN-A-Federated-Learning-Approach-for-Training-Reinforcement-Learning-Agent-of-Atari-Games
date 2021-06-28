@@ -43,6 +43,7 @@ python FederatedRLPong.py
 
 ## **Result**
 We can use federating learning with reinforcement learning without any concern. In addition to that, shown in below, when we use the early stopping technique just as the evaluation score reaches score of 21, the reinforcement learning method could be trained only 10 rounds which equals 1000 episodes; whereas, the federated learning method could be trained with 750 episodes, outperforming reinforcement learning agent. Another upside of FeDQN is, since parallel training is allowed, we have 25\% better convergence based on what episodes those agents need to be trained.
+
 ![photo_2021-06-28_19-50-12](https://user-images.githubusercontent.com/23126077/123674338-2d0df100-d84a-11eb-962c-b3ef410fad67.jpg)
 
 
