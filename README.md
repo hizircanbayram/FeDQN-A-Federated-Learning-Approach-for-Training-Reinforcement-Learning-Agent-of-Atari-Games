@@ -57,7 +57,7 @@ We can use federating learning with reinforcement learning without any concern. 
 [![Presentation](https://img.youtube.com/vi/_xc-UXAuwls/1.jpg)](https://youtu.be/_xc-UXAuwls)
     
 ## **Acknowledgement** 
-> *This project is carried out for Artificial Intelligence Course at Istanbul Technical University during 2021 spring semester.*
+This project is carried out for Artificial Intelligence Course at Istanbul Technical University during 2021 spring semester.
 
 
 
