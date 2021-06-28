@@ -4,8 +4,6 @@
 ## **Abstract** 
 > *Atari games draw a good attention for a different range of people for years. This attention has recently turned into an AI perspective for computer scientists for various reasons. Firstly, games are simple and this leads a controlled environment. Secondly, games are not that complex, thus they can be used as benchmark for a wide variety of different agents. Reinforcement learning has gained popularity in the last decade and it is commonly used in computer games to train agents. Since reinforcement learning requires a lot of data to train a good agent, requirement for data with a great variability is more important than ever nowadays. Federated learning, on the other hand, has opened great era for machine learning agents trained in different local devices via a connected system. Every device (i.e., a client) connected to a server, trains an agent with its dataset in its environments and sends its learnt weights to the server. Afterwards, the server aggregates these weights and creates global model weights with them. These weights aggregate information and transfer knowledge from different datasets collected from different environments. Such pipeline endows the global model with a generalizability power as it implicitly benefitted from the diversity of the local datasets. In this work, we, to the best of our knowledge, proposed the first federated reinforcement learning pipeline for playing atari games.*
 
-> Hızır Can Bayram, Abdullah Akgül
-
 
 ## **How to start?**
 In order to set parameters of the pipeline, use
@@ -56,8 +54,11 @@ We can use federating learning with reinforcement learning without any concern. 
 ## Presentation Link 
 [![Presentation](https://img.youtube.com/vi/_xc-UXAuwls/1.jpg)](https://youtu.be/_xc-UXAuwls)
     
+
+## **Authors**
+- [Hızır Can Bayram](https://github.com/hizircanbayram)
+- [Abdullah Akgül](https://github.com/aportekila)
+
+
 ## **Acknowledgement** 
 This project is carried out for Artificial Intelligence Course at Istanbul Technical University during 2021 spring semester.
-
-
-
