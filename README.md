@@ -53,6 +53,8 @@ We can use federating learning with reinforcement learning without any concern. 
 | ------------- | ------------- |
 | ![RL](https://user-images.githubusercontent.com/23126077/123671354-d8b54200-d846-11eb-9a5e-6dfe6f139b50.gif)              |    ![FL_RL](https://user-images.githubusercontent.com/23126077/123671408-e8348b00-d846-11eb-831d-bfe66780490f.gif)           |
 
+## Presentation Link 
+[![Presentation](https://img.youtube.com/vi/_xc-UXAuwls/1.jpg)](https://youtu.be/_xc-UXAuwls)
     
 ## **Acknowledgement** 
 > *This project is carried out for Artificial Intelligence Course at Istanbul Technical University during 2021 spring semester.*
